@@ -1,0 +1,11 @@
+**************************************
+*  PRÁCTICA 3
+* (c) Adrián Sorribas & Ferran Ramia
+**************************************
+
+Al acceder a la aplicación se debe tener en cuenta:
+
+ 1) Para el login se debe autenticar con el usuario user@uji.es y la password user.
+ 2) En esta parte se controla la gestión de usuarios por parte del administrador del sistema.
+ 3) Se pueden añadir usuarios y modificar/añadir respectivos dispositivos.
+ 4) Se pueden modificar/añadir tarifas.
