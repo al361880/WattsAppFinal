@@ -14,7 +14,7 @@
   "author": "Ferran & Adrian",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.16.0",
     "boostrap": "^2.0.0",
     "bootstrap": "^4.4.1",
